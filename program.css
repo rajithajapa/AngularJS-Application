@@ -1,0 +1,24 @@
+I design & developed  the login page with html & css
+with html i have created 2 input boxes for user details & submit button and used css for styling the page 
+once  user clicks submit button
+ A javascript function for form validation is triggerred which checks for the null's and length & format of the given details
+ I have written an ajax method where the http method sends the details to the server
+
+
+ Usecase:1 
+ 
+ I designed & devloped the login page for the beach body inc where the user should login inorder to have the access to the application. 
+ 
+ I designed & developed a login page using html ,css & angularjs. 
+ with html i have created the input boxes & submit button & div tags and with css i  used media queries(for responsive webpage ), psuedo elements and different font styles etc to design the page.
+once the user clicks on the submit button. the a  submit form function is triggered in the controller where  the form validations like not null and undefined are checked .
+once the details are verified. have http request is made to the server to check the details and response is requested which redirects to the next page if details are given correctly or else the error data should be reported to the user.
+
+Usecase :2
+I designed & developed a search field functionality. I used html for the search box  
+ Where the user can search the details  based on the products & categories & suggestive searches . I have used filters in angularjs for the search functionality.
+ i used ng-repeat  directive inorder to loop the products and categories and used filters to make the serach functionality work. 
+
+
+ 
+ 

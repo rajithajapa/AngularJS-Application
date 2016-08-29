@@ -1,0 +1,18 @@
+
+<div ng-controller="peopleController">
+   <ul>
+      <h2> Names of the People:</h2>
+       <li ng-repeat="person in people | filter:globalSearch">
+          {{ "Name:" +person.Name+','+ "Age:" +person.Age+','+ "Color:" +person.Color}}
+       </li>
+    
+    </ul>
+</div>
+
+<div id="searchBoxes">
+ Search: <input type="text" ng-model="globalSearch.$"> <br>
+ Name Search:<input type="text" ng-model="globalSearch.Name"> <br>
+ Age Search:<input type="text" ng-model="globalSearch.Age"> <br>
+ Color Search: <input type="text" ng-model="globalSearch.Color"> 
+</div>
+

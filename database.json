@@ -1,0 +1,29 @@
+{
+     "records":[
+             {
+                 "Name": "Raj",
+                 "Age":"18",
+                 "Color":"red"
+             },
+              {
+                 "Name": "Viji",
+                 "Age":"88",
+                 "Color":"green"
+                
+             },
+              {
+                 "Name": "Zij",
+                 "Age":"28",
+                 "Color":"yellow"
+             },
+              {
+                 "Name": "Kia",
+                 "Age":"28",
+                 "Color":"white"
+             },
+              {
+                 "Name": "kesh",
+                 "Age":"19",
+                 "Color":"purple"
+             }
+     ]}
